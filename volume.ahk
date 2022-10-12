@@ -1,5 +1,5 @@
 ﻿#Requires AutoHotkey v1.1
-+!^1::
++!^1:: ; Shift+Alt+Ctrl+1
 SoundSet, 10
 return
 
@@ -37,8 +37,4 @@ return
 
 +!^0::
 SoundSet, 100
-return
-
-+!^m::
-SoundSet, 4, Microphone, Mute
 return
